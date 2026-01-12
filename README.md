@@ -4,9 +4,6 @@ A modern, responsive travel agency website built with pure HTML5 and CSS3. This 
 
 **Live Demo**: https://ondrej108.github.io/Travel-Agency-Website/
 
-![Website Preview](https://via.placeholder.com/800x400/4A90E2/ffffff?text=Add+Your+Screenshot+Here)
-*Replace the placeholder above with actual screenshots of your website*
-
 ---
 
 ## 📋 Table of Contents
